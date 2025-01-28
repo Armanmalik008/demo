@@ -30,21 +30,21 @@ This project involves analyzing data from Zomato to derive insights into restaur
 
 - Programming Language: Python
 
--Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
--Jupyter Notebook: For interactive data exploration and visualization
+- Jupyter Notebook: For interactive data exploration and visualization
 
  ##  Data Description
 
 The dataset contains information about Zomato restaurants, including:
 
--Restaurant names and locations
+- Restaurant names and locations
 
--Ratings and reviews
+- Ratings and reviews
 
--Price range and cuisine types
+- Price range and cuisine types
 
--Other metadata such as delivery options, timing, and contact details
+- Other metadata such as delivery options, timing, and contact details
 
 ## Sections 📚
 ✔️ Exploratory Data Analysis\
@@ -55,11 +55,11 @@ The dataset contains information about Zomato restaurants, including:
 
 ##  Modal 📄
 
--Linear Regression
+- Linear Regression
 
--Decision Tree Regression
+- Decision Tree Regression
 
--Random Forest Regression
+- Random Forest Regression
 
--Extra Tree Regression
+- Extra Tree Regression
 
