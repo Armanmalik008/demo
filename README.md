@@ -18,10 +18,13 @@
 This project involves analyzing data from Zomato to derive insights into restaurant trends, customer preferences, and other key metrics. The goal is to uncover patterns and provide actionable insights to improve decision-making for stakeholders in the food and beverage industry.
 
 ##  Features
-Data Cleaning: Handling missing values, duplicates, and data inconsistencies.
-Exploratory Data Analysis (EDA): Identifying trends in ratings, pricing, locations, and cuisines.
-Visualizations: Creating plots and charts to showcase findings.
-Insights & Recommendations: Offering actionable recommendations based on analysis.
+- Data Cleaning: Handling missing values, duplicates, and data inconsistencies.
+ 
+- exploratory Data Analysis (EDA): Identifying trends in ratings, pricing, locations, and cuisines.
+
+- Visualizations: Creating plots and charts to showcase findings.
+
+- Insights & Recommendations: Offering actionable recommendations based on analysis.
 
 ## Methodology 🛠️
 ### Phase I,
